@@ -1,11 +1,11 @@
 <h1>Analyzing Network Structure and Security</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this project, I used additional knowledge gained through training about networks to efficiently analyze a network incident scenario involving working for a company that offers web design services, graphic design, and social media marketing solutions to small businesses. The organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved. My job was to analyze the situation using the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF) and create a quality cybersecurity incident report to build trust and improve security practices within my organization. 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Incident Report Analysis</h2>
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
