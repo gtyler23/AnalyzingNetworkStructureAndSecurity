@@ -6,7 +6,7 @@ In this project, I used additional knowledge gained through training about netwo
 
 <h2>Incident Report Analysis:</h2>
 
-- <b>https://github.com/gtyler23/AnalyzingNetworkStructureAndSecurity/files/11585482/Incident-report-analysis.pdf</b>
+- <b>[Cybersecurity Incident Report](https://github.com/gtyler23/AnalyzingNetworkStructureAndSecurity/files/11585482/Incident-report-analysis.pdf)
 
 <!--
  ```diff
